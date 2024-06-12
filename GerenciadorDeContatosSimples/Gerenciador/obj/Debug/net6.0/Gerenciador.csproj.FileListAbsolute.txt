@@ -1,0 +1,15 @@
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/bin/Debug/net6.0/Gerenciador
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/bin/Debug/net6.0/Gerenciador.deps.json
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/bin/Debug/net6.0/Gerenciador.runtimeconfig.json
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/bin/Debug/net6.0/Gerenciador.dll
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/bin/Debug/net6.0/Gerenciador.pdb
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.AssemblyInfoInputs.cache
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.AssemblyInfo.cs
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.csproj.CoreCompileInputs.cache
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.sourcelink.json
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.dll
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/refint/Gerenciador.dll
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.pdb
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/Gerenciador.genruntimeconfig.cache
+/home/tonho/tonho/projects/conversa-fiada/GerenciadorDeContatosSimples/Gerenciador/obj/Debug/net6.0/ref/Gerenciador.dll
