@@ -15,6 +15,7 @@ while (true){
   if(codigo == 0){
     break;
   }else if(codigo == 1){
+    Console.WriteLine("Contatos: ");
     foreach(string i in contatos){
       Console.WriteLine(i);
     }
@@ -24,10 +25,11 @@ while (true){
     Console.WriteLine("\n");
   }else if(codigo == 3){
     Console.WriteLine("Escolha um contato para remover: ");
-    foreach(string i in contatos){
+    foreach(string i in contatoss){
       Count ++;
       Console.WriteLine(i + " " + Count);
-    contatos.RemoveAt(Convert.ToInt32(Console.ReadLine()));
-    }
+      }
+    contatoss.RemoveAt(Convert.ToInt32(Console.ReadLine()) - 1);
+    
   }
 }
