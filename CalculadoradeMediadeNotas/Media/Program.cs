@@ -4,7 +4,7 @@ double[] notas = new double[tamanho];
 double soma = 0; 
 for (int i = 0; i < tamanho; i++)
 {
-  Console.WriteLine("Digite a nota:\n ");
+  Console.WriteLine("Digite a nota: ");
   notas[i] = Convert.ToDouble(Console.ReadLine());
 }
 
