@@ -1,0 +1,15 @@
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/bin/Debug/net8.0/Tarefas
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/bin/Debug/net8.0/Tarefas.deps.json
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/bin/Debug/net8.0/Tarefas.runtimeconfig.json
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/bin/Debug/net8.0/Tarefas.dll
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/bin/Debug/net8.0/Tarefas.pdb
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.AssemblyInfoInputs.cache
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.AssemblyInfo.cs
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.csproj.CoreCompileInputs.cache
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.sourcelink.json
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.dll
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/refint/Tarefas.dll
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.pdb
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/Tarefas.genruntimeconfig.cache
+/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/Debug/net8.0/ref/Tarefas.dll

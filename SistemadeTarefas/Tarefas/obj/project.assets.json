@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tonho/tonho/projects/conversa-fiada/EmprestimosdeLivros/Emprestimo/Emprestimo.csproj",
-      "projectName": "Emprestimo",
-      "projectPath": "/home/tonho/tonho/projects/conversa-fiada/EmprestimosdeLivros/Emprestimo/Emprestimo.csproj",
+      "projectUniqueName": "/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/Tarefas.csproj",
+      "projectName": "Tarefas",
+      "projectPath": "/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/Tarefas.csproj",
       "packagesPath": "/home/tonho/.nuget/packages/",
-      "outputPath": "/home/tonho/tonho/projects/conversa-fiada/EmprestimosdeLivros/Emprestimo/obj/",
+      "outputPath": "/home/tonho/tonho/projects/conversa-fiada/SistemadeTarefas/Tarefas/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tonho/.nuget/NuGet/NuGet.Config"
