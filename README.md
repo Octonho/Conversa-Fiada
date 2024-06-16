@@ -11,26 +11,6 @@ O principal objetivo do **conversa-fiada** é servir como um repositório de ref
 - Experimentar com diferentes funcionalidades e características da linguagem C#.
 - Compartilhar conhecimentos e práticas de programação com outros desenvolvedores iniciantes.
 
-## Conteúdo
-
-O repositório está organizado em diferentes diretórios e arquivos, cada um focado em um aspecto específico da linguagem C# e do desenvolvimento .NET. A estrutura atual inclui:
-
-- **Introdução ao C#:**
-  - Primeiros passos com C#
-  - Sintaxe básica e tipos de dados
-  - Estruturas de controle e loops
-- **Programação Orientada a Objetos (POO):**
-  - Classes e objetos
-  - Herança e polimorfismo
-  - Encapsulamento e abstração
-- **Fundamentos Avançados:**
-  - Coleções e Generics
-  - LINQ (Language Integrated Query)
-  - Tratamento de exceções
-- **Projetos e Exercícios:**
-  - Aplicações console
-  - Mini-projetos para prática
-  - Desafios de codificação
 
 ## Como Usar
 
