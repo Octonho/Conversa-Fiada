@@ -14,10 +14,10 @@ O principal objetivo do **conversa-fiada** é servir como um repositório de ref
 
 ## Where do I get my projects from?
 
-https://chatgpt.com/
-https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/
-https://github.com/karan/Projects
-
+1. https://chatgpt.com/
+2. https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/
+3. https://github.com/karan/Projects
+4. balta.io
 ## How i clone this?
 
 To explore the codes and projects in this repository, follow the steps below:
