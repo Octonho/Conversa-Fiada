@@ -12,11 +12,17 @@ O principal objetivo do **conversa-fiada** é servir como um repositório de ref
 - Compartilhar conhecimentos e práticas de programação com outros desenvolvedores iniciantes.
 
 
-## Como Usar
+## Where do I get my projects from?
 
-Para explorar os códigos e projetos deste repositório, siga os passos abaixo:
+https://chatgpt.com/
+https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/
+https://github.com/karan/Projects
 
-1. Clone o repositório para o seu ambiente local:
-   ```bash
-   git clone https://github.com/seu-usuario/conversa-fiada.git
+## How i clone this?
+
+To explore the codes and projects in this repository, follow the steps below:
+
+1. Clone the repository to your local environment:
+ ```bash
+ git clone https://github.com/tonhodb/conversa-fiada.git
 
