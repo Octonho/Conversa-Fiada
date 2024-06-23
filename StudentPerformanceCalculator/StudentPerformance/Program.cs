@@ -19,6 +19,7 @@ foreach(int i in grades){
 }
 
 var average = sum / x;
+
 if(average != aproved){
   Console.WriteLine("Reprovou");
 }else{
