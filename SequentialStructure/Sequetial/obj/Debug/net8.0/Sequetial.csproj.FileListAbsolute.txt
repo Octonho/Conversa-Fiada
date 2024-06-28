@@ -1,0 +1,15 @@
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.AssemblyInfoInputs.cache
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.AssemblyInfo.cs
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.csproj.CoreCompileInputs.cache
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.sourcelink.json
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/bin/Debug/net8.0/Sequetial
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/bin/Debug/net8.0/Sequetial.deps.json
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/bin/Debug/net8.0/Sequetial.runtimeconfig.json
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/bin/Debug/net8.0/Sequetial.dll
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/bin/Debug/net8.0/Sequetial.pdb
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.dll
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/refint/Sequetial.dll
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.pdb
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/Sequetial.genruntimeconfig.cache
+/home/tonho/tonho/projects/conversa-fiada/SequentialStructure/Sequetial/obj/Debug/net8.0/ref/Sequetial.dll
