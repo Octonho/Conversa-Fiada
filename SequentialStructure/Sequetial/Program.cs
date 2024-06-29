@@ -22,8 +22,6 @@ void ShowSum()
 {
 int Numbers()
 {
-
-
 Console.WriteLine("Digite o primeiro número: ");
 int number1 = Convert.ToInt32(Console.ReadLine()); 
 Console.WriteLine("Digite o segundo número: ");
@@ -31,6 +29,26 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 return number1 + number2;
 }
 Console.WriteLine("A soma de ambos os números é igual: "+ Numbers());
+}
+
+// 4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
+void ShowAvarage()
+{
+int Avarages()
+{
+Console.WriteLine("Digite a primeira nota: ");
+int avarage1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Digite a segunda nota: ");
+int avarage2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Digite a terceira nota: ");
+int avarage3 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Digite a quarta nota: ");
+int avarage4 = Convert.ToInt32(Console.ReadLine());
+
+return (avarage1 + avarage2 + avarage3 + avarage4) / 4;
+}
+Console.WriteLine("Sua média é igual: "+ Avarages());
 }
 
 // Execução
@@ -46,6 +64,9 @@ case 2:
   break;
 case 3:
   ShowSum();
+  break;
+case 4:
+  ShowAvarage();
   break;
 }
 
