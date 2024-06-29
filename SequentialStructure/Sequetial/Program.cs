@@ -51,6 +51,20 @@ return (avarage1 + avarage2 + avarage3 + avarage4) / 4;
 Console.WriteLine("Sua média é igual: "+ Avarages());
 }
 
+// 5. Faça um Programa que converta metros para centímetros.
+
+void ShowMetersToCentimeter()
+{
+double MetersToCentimeters()
+{
+Console.WriteLine("Digite o valor em metros: ");
+double m = Convert.ToDouble(Console.ReadLine());
+double cm = m * 100; 
+return cm;
+}
+Console.WriteLine("O valor em Cm é: " + MetersToCentimeters());
+}
+
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
 int choice = Convert.ToInt32(Console.ReadLine());
@@ -67,6 +81,9 @@ case 3:
   break;
 case 4:
   ShowAvarage();
+  break;
+case 5:
+  ShowMetersToCentimeter();
   break;
 }
 
