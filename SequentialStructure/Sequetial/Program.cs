@@ -16,6 +16,24 @@ return number;
 Console.WriteLine("O número informado foi "+ Number());
 }
 
+// 3. Faça um Programa que peça dois números e imprima a soma.
+
+void ShowSum()
+{
+int Numbers()
+{
+
+
+Console.WriteLine("Digite o primeiro número: ");
+int number1 = Convert.ToInt32(Console.ReadLine()); 
+Console.WriteLine("Digite o segundo número: ");
+int number2 = Convert.ToInt32(Console.ReadLine()); 
+return number1 + number2;
+}
+Console.WriteLine("A soma de ambos os números é igual: "+ Numbers());
+}
+
+// Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
 int choice = Convert.ToInt32(Console.ReadLine());
 switch(choice)
@@ -25,6 +43,9 @@ case 1:
   break;
 case 2:
   ShowNumber();
+  break;
+case 3:
+  ShowSum();
   break;
 }
 
