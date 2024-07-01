@@ -80,6 +80,20 @@ void ShowAreaOfCircle()
   Console.WriteLine("A área do circulo é: " + AreaOfCircle());
 }
 
+// 7. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+void ShowAreaOfSquare()
+{
+  double DoubleOfAreaOfSquare()
+  {
+   
+    Console.WriteLine("Digite o lado do quadrado");
+    double l = Convert.ToDouble(Console.ReadLine());
+    return (l * l) * 2;
+  }
+  Console.WriteLine("A área do circulo é: " + DoubleOfAreaOfSquare());
+}
+
+
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
