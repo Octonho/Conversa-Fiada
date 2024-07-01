@@ -1,5 +1,7 @@
 ﻿// 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
+using System.Net.NetworkInformation;
+
 void HelloWorld()
 {
   Console.WriteLine("Alo mundo");
@@ -65,6 +67,20 @@ return cm;
 Console.WriteLine("O valor em Cm é: " + MetersToCentimeters());
 }
 
+// 6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+void ShowAreaOfCircle()
+{
+  double AreaOfCircle()
+  {
+    double pi = 3.14;
+    Console.WriteLine("Digite o raio");
+    double r = Convert.ToDouble(Console.ReadLine());
+    return  pi * (r * r);
+  }
+  Console.WriteLine("A área do circulo é: " + AreaOfCircle());
+}
+
+
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
 int choice = Convert.ToInt32(Console.ReadLine());
@@ -84,6 +100,9 @@ case 4:
   break;
 case 5:
   ShowMetersToCentimeter();
+  break;
+case 6:
+  ShowAreaOfCircle();
   break;
 }
 
