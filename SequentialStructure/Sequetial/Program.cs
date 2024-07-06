@@ -165,7 +165,26 @@ return (72.7 * height) - 58;
 }
 Console.WriteLine("Seu peso ideal é: " + IdealWeight());
 }
+/*
+13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+a. Para homens: (72.7*h) - 58
+b. Para mulheres: (62.1*h) - 44.7
+*/
+void ShowIdealWeight2()
+{
+double height = Convert.ToDouble(Console.ReadLine());
+double IdealWeightMan()
+{
+return (72.7 * height) - 58;
+}
+double IdealWeightFemale()
+{
+  return (62.1 * height) - 44.7;
+}
+Console.WriteLine("Seu peso ideal masculino é: " + IdealWeightMan());
+Console.WriteLine("Seu peso ideal feminino é: " + IdealWeightFemale());
 
+}
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -208,6 +227,10 @@ case 11:
 case 12:
   ShowIdealWeight();
   break;
+case 13:
+  ShowIdealWeight2();
+  break;
+  
 }
 
 
