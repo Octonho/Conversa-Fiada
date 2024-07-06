@@ -93,7 +93,18 @@ void ShowAreaOfSquare()
   Console.WriteLine("A área do circulo é: " + DoubleOfAreaOfSquare());
 }
 
+// 8. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
+void ShowWage()
+{
+ double WageCalc()
+ {
+  double workHours = Convert.ToDouble(Console.ReadLine());
+  double hourWage = Convert.ToDouble(Console.ReadLine());
+  return workHours * hourWage;
+ }
+ Console.WriteLine(WageCalc());
+}
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -117,6 +128,12 @@ case 5:
   break;
 case 6:
   ShowAreaOfCircle();
+  break;
+case 7:
+  ShowAreaOfSquare();
+  break;
+case 8:
+  ShowWage();
   break;
 }
 
