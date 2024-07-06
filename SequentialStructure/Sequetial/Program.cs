@@ -1,5 +1,6 @@
 ﻿// 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
+using System.ComponentModel;
 using System.Net.NetworkInformation;
 
 void HelloWorld()
@@ -116,7 +117,7 @@ void ShowConvertedToCelsius()
   }
   Console.WriteLine(ConvertToCelsius());
 }
-//Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+//10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
 void ShowConvertedToFahrenheit()
 {
   double ConvertToFahrenheit()
@@ -125,6 +126,33 @@ void ShowConvertedToFahrenheit()
     return (C * 1.8) + 32;
   }
   Console.WriteLine(ConvertToFahrenheit());
+}
+/*
+11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+a. o produto do dobro do primeiro com metade do segundo .
+b. a soma do triplo do primeiro com o terceiro.
+c. o terceiro elevado ao cubo.
+*/
+
+void ShowNumberTransformation()
+{
+int n1 = Convert.ToInt32(Console.ReadLine());
+int n2 = Convert.ToInt32(Console.ReadLine());
+double n3 = Convert.ToDouble(Console.ReadLine());
+double a()
+{
+return Convert.ToDouble((n1 * 2) * (n2 / 2.0));
+}
+double b()
+{
+  return Convert.ToDouble((n2 * 3.0) + n3);
+}
+
+double c()
+{
+  return Convert.ToDouble(n3 * n3 * n3);
+}
+Console.WriteLine("a: " + a() + " b: " + b() + " c: " + c());
 }
 
 // Execução
@@ -161,6 +189,9 @@ case 9:
   break;
 case 10:
   ShowConvertedToFahrenheit();
+  break;
+case 11:
+  ShowNumberTransformation();
   break;
 }
 
