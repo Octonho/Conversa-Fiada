@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sequetial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efee7cfd950bd633026d1971c23dd5b1201cf639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41c074f2f2405274134902873dbb3be190386997")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sequetial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sequetial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

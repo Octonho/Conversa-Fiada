@@ -185,6 +185,18 @@ Console.WriteLine("Seu peso ideal masculino é: " + IdealWeightMan());
 Console.WriteLine("Seu peso ideal feminino é: " + IdealWeightFemale());
 
 }
+/*
+João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
+*/
+
+void ShowJoao()
+{
+double fishWidth = Convert.ToDouble(Console.ReadLine());
+double ticket = fishWidth >= 0 && fishWidth <= 40 ? 0 : (fishWidth - 50) * 4;
+
+Console.WriteLine("Você recebeu uma multa de: " + ticket);
+}
+
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -230,7 +242,17 @@ case 12:
 case 13:
   ShowIdealWeight2();
   break;
-  
+case 14:
+  ShowJoao();
+  break;
+case 15:
+  break;
+case 16:
+  break;
+case 17:
+  break;
+case 18:
+  break;
 }
 
 
