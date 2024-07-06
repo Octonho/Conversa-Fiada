@@ -105,6 +105,17 @@ void ShowWage()
  }
  Console.WriteLine(WageCalc());
 }
+// 9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).
+
+void ShowConvertedToCelsius()
+{
+  double ConvertToCelsius()
+  {
+    double F = Convert.ToDouble(Console.ReadLine());
+    return 5 * ((F - 32) / 9);
+  }
+  Console.WriteLine(ConvertToCelsius());
+}
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -134,6 +145,9 @@ case 7:
   break;
 case 8:
   ShowWage();
+  break;
+case 9:
+  ShowConvertedToCelsius();
   break;
 }
 
