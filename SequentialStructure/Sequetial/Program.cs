@@ -205,9 +205,6 @@ c. quanto pagou ao sindicato.
 d. o salário líquido.
 calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
-
-
-
 */
 void ShowWork()
 {
@@ -221,6 +218,17 @@ void ShowWork()
   double liquid = wage - tax - sindicate - inss;
   Console.WriteLine("a. " + wage + " b. " + tax + " c. "+inss + " d. " + liquid);
 }
+/*
+Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+*/
+void ShowPaint()
+{
+double m = Convert.ToDouble(Console.ReadLine());
+double l = m / 3;
+int paint = Convert.ToInt32(l) / 18; 
+int total = l >= 18 ? paint * 80 : 1 * 80; 
+}
+
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -273,6 +281,7 @@ case 15:
   ShowWork();
   break;
 case 16:
+  ShowPaint();
   break;
 case 17:
   break;
