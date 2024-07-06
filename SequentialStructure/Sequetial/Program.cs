@@ -116,6 +116,16 @@ void ShowConvertedToCelsius()
   }
   Console.WriteLine(ConvertToCelsius());
 }
+//Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+void ShowConvertedToFahrenheit()
+{
+  double ConvertToFahrenheit()
+  {
+    double C = Convert.ToDouble(Console.ReadLine());
+    return (C * 1.8) + 32;
+  }
+  Console.WriteLine(ConvertToFahrenheit());
+}
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -148,6 +158,9 @@ case 8:
   break;
 case 9:
   ShowConvertedToCelsius();
+  break;
+case 10:
+  ShowConvertedToFahrenheit();
   break;
 }
 
