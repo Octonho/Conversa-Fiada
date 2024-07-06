@@ -154,6 +154,18 @@ double c()
 }
 Console.WriteLine("a: " + a() + " b: " + b() + " c: " + c());
 }
+// 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
+void ShowIdealWeight()
+{
+double IdealWeight()
+{
+double height = Convert.ToDouble(Console.ReadLine());
+return (72.7 * height) - 58;
+}
+Console.WriteLine("Seu peso ideal é: " + IdealWeight());
+}
+
 
 // Execução
 Console.WriteLine("Digite o código baseado nessa lista: https://wiki.python.org.br/EstruturaSequencial: ");
@@ -192,6 +204,9 @@ case 10:
   break;
 case 11:
   ShowNumberTransformation();
+  break;
+case 12:
+  ShowIdealWeight();
   break;
 }
 
